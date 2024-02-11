@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">linear_and_relative</string>
+    <string name="name">Please enter user name</string>
+    <string name="pass">Please enter Password</string>
+</resources>
